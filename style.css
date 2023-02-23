@@ -1,0 +1,67 @@
+body{
+    background-attachment: fixed;
+    
+}
+
+
+.left{
+    width: 40%;
+    height: 50%;
+    margin:0vmin;
+    padding: auto;
+
+}
+.bloco{
+    
+    margin: 10px;
+    text-align: justify;
+    font-family: Lucida Bright;
+    font-size:medium;
+    color: #000; 
+}
+
+
+
+#históriadocarnaval{
+    margin: 10px;
+    font-family: Lucida Bright;
+    font-style: normal;
+    font-variant: normal;
+    text-align: justify;
+    Word-spacing: 5px;
+    width: 40%;
+    height: 50%;
+    padding:auto;
+    
+}
+
+
+#sobreocarnaval{
+    margin: 10px;
+    font-family: Lucida Bright;
+    font-style:normal;
+    font-variant: normal;
+    text-align: justify;
+    Word-spacing: 5px;
+    width: 40%;
+    height: 50%;
+    padding:auto;
+}
+
+#blocos{  
+    font-family: Lucida Bright;
+    font-style: normal;
+    font-variant: normal;
+    text-align: right;
+    Word-spacing: 5px;
+    
+}
+
+#referências{
+    
+    font-family: Lucida Bright;
+    font-style: normal;
+    font-variant: normal;
+    text-align: justify;
+    Word-spacing: 5px;
+}
